@@ -1,3 +1,19 @@
 footer img {
   width: 100px;
 }
+
+body {
+  background-color: lightblue;
+}
+
+main div {
+  background-color: lightblue;
+}
+
+header {
+  border-radius: 0 0 10px 10px;
+}
+
+main img {
+  border-radius: 10px;
+}
