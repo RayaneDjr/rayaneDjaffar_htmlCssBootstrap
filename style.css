@@ -17,3 +17,8 @@ header {
 main img {
   border-radius: 10px;
 }
+
+h1 {
+  color: darkblue;
+  font-weight: bold;
+}
